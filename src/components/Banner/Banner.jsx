@@ -1,6 +1,7 @@
 import React from "react";
+import { toast } from "react-toastify";
 
-const Banner = () => {
+const Banner = ({ handleCoin }) => {
   return (
     <div
       className="h-screen bg-cover bg-center bg-no-repeat my-16 flex justify-center items-center rounded-lg"
@@ -19,7 +20,14 @@ const Banner = () => {
           <p className=" text-xl md:text-2xl">
             Beyond Boundaries Beyond Limits
           </p>
-          <button className="btn bg-[#E7FE29] text-black hover:underline hover:scale-105 transition-all duration-200 ease-in-out">
+
+          <button
+            onClick={() => {
+              handleCoin();
+              toast("Coin added");
+            }}
+            className="btn bg-[#E7FE29] text-black hover:underline hover:scale-105 transition-all duration-200 ease-in-out"
+          >
             Claim Free Credit
           </button>
         </div>

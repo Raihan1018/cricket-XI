@@ -7,116 +7,128 @@
     "specialty": "Top-order Batsman",
     "rating": 9.2,
     "price": 2500000,
-    "type": "Batsman"
+    "type": "Batsman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Virat_Kohli.jpg"
   },
   {
     "id": 2,
-    "player_name": "Jasprit Bumrah",
-    "country": "India",
-    "role": "Bowler",
-    "specialty": "Pace Bowler",
-    "rating": 8.8,
-    "price": 1800000,
-    "type": "Bowler"
-  },
-  {
-    "id": 3,
-    "player_name": "Steve Smith",
-    "country": "Australia",
-    "role": "Batsman",
-    "specialty": "Test Batsman",
-    "rating": 9.1,
-    "price": 2300000,
-    "type": "Batsman"
-  },
-  {
-    "id": 4,
-    "player_name": "Mitchell Starc",
-    "country": "Australia",
-    "role": "Bowler",
-    "specialty": "Fast Bowler",
-    "rating": 8.5,
-    "price": 1600000,
-    "type": "Bowler"
-  },
-  {
-    "id": 5,
-    "player_name": "Ben Stokes",
-    "country": "England",
-    "role": "All-rounder",
-    "specialty": "Pace All-rounder",
-    "rating": 9.0,
-    "price": 2100000,
-    "type": "All-rounder"
-  },
-  {
-    "id": 6,
-    "player_name": "Rashid Khan",
-    "country": "Afghanistan",
-    "role": "Bowler",
-    "specialty": "Spin Bowler",
-    "rating": 8.9,
-    "price": 1900000,
-    "type": "Bowler"
-  },
-  {
-    "id": 7,
-    "player_name": "Kane Williamson",
-    "country": "New Zealand",
-    "role": "Batsman",
-    "specialty": "Middle-order Batsman",
-    "rating": 8.7,
-    "price": 2000000,
-    "type": "Batsman"
-  },
-  {
-    "id": 8,
-    "player_name": "Trent Boult",
-    "country": "New Zealand",
-    "role": "Bowler",
-    "specialty": "Swing Bowler",
-    "rating": 8.6,
-    "price": 1750000,
-    "type": "Bowler"
-  },
-  {
-    "id": 9,
-    "player_name": "Babar Azam",
-    "country": "Pakistan",
-    "role": "Batsman",
-    "specialty": "Opening Batsman",
-    "rating": 9.3,
-    "price": 2600000,
-    "type": "Batsman"
-  },
-  {
-    "id": 10,
-    "player_name": "Shaheen Afridi",
-    "country": "Pakistan",
-    "role": "Bowler",
-    "specialty": "Left-arm Fast Bowler",
-    "rating": 8.7,
-    "price": 1850000,
-    "type": "Bowler"
-  },
-  {
-    "id": 11,
     "player_name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "role": "All-rounder",
     "specialty": "Spin All-rounder",
     "rating": 8.9,
     "price": 2000000,
-    "type": "All-rounder"
+    "type": "All-rounder",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shakib_Al_Hasan_2018.jpg"
+  },
+  {
+    "id": 3,
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "specialty": "Fast Bowler",
+    "rating": 9.0,
+    "price": 2200000,
+    "type": "Bowler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jasprit_Bumrah.jpg"
+  },
+  {
+    "id": 4,
+    "player_name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "specialty": "Middle-order Batsman",
+    "rating": 8.8,
+    "price": 2100000,
+    "type": "Batsman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Steve_Smith_2018.jpg"
+  },
+  {
+    "id": 5,
+    "player_name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "specialty": "Fast Bowler",
+    "rating": 8.7,
+    "price": 1900000,
+    "type": "Bowler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kagiso_Rabada.jpg"
+  },
+  {
+    "id": 6,
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "specialty": "Fast All-rounder",
+    "rating": 9.1,
+    "price": 2300000,
+    "type": "All-rounder",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ben_Stokes_2019.jpg"
+  },
+  {
+    "id": 7,
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "specialty": "Leg Spinner",
+    "rating": 8.6,
+    "price": 1800000,
+    "type": "Bowler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rashid_Khan_2021.jpg"
+  },
+  {
+    "id": 8,
+    "player_name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "specialty": "Opening Batsman",
+    "rating": 8.9,
+    "price": 2000000,
+    "type": "Batsman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/David_Warner_2019.jpg"
+  },
+  {
+    "id": 9,
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "specialty": "Left-arm Fast Bowler",
+    "rating": 8.8,
+    "price": 1950000,
+    "type": "Bowler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Trent_Boult_2018.jpg"
+  },
+  {
+    "id": 10,
+    "player_name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Batsman",
+    "specialty": "Wicketkeeper Batsman",
+    "rating": 9.0,
+    "price": 2400000,
+    "type": "Batsman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/AB_de_Villiers_2015.jpg"
+  },
+  {
+    "id": 11,
+    "player_name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "specialty": "Wicketkeeper Batsman",
+    "rating": 8.5,
+    "price": 1700000,
+    "type": "Batsman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mushfiqur_Rahim_2019.jpg"
   },
   {
     "id": 12,
-    "player_name": "Glenn Maxwell",
+    "player_name": "Mitchell Starc",
     "country": "Australia",
-    "role": "All-rounder",
-    "specialty": "Batting All-rounder",
-    "rating": 8.5,
-    "price": 1900000,
-    "type": "All-rounder"
+    "role": "Bowler",
+    "specialty": "Left-arm Fast Bowler",
+    "rating": 8.9,
+    "price": 2100000,
+    "type": "Bowler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mitchell_Starc_2018.jpg"
   }
 ]

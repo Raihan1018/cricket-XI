@@ -1,5 +1,5 @@
 import React from "react";
-const Header = () => {
+const Header = ({ coin }) => {
   const navLinks = (
     <>
       <li>
@@ -52,7 +52,7 @@ const Header = () => {
       </div>
       <div className="navbar-end">
         <a className="btn">
-          5000000 Coins{" "}
+          {coin}  Coins{" "}
           <img src="https://i.ibb.co.com/23vNPfzM/coin.png" alt="Coin" />
         </a>
       </div>
