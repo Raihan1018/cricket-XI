@@ -52,7 +52,7 @@ const Header = ({ coin }) => {
       </div>
       <div className="navbar-end">
         <a className="btn">
-          {coin}  Coins{" "}
+          {parseInt(coin)} Coins{" "}
           <img src="https://i.ibb.co.com/23vNPfzM/coin.png" alt="Coin" />
         </a>
       </div>

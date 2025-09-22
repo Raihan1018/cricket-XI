@@ -1,16 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import { FaFlag, FaUser } from "react-icons/fa";
+import { toast } from "react-toastify";
 
-const PlayersCards = ({ player }) => {
+const PlayersCards = ({ player, setCoin, coin }) => {
+  const [isSelected, setIsSelected] = useState(false);
+
   return (
-    <div className="card bg-base-100  shadow-xl p-5 border hover:-translate-y-3 duration-200 ease-in-out transition-all">
+    <div className="card bg-base-100  shadow-xl p-5 border ">
       <figure>
-        <img className="h-96 w-96" src={player.image_url} alt={player.player_name} />
+        <img
+          className="h-96 w-96"
+          src={player.image_url}
+          alt={player.player_name}
+        />
       </figure>
       <div>
         <h2 className="card-title py-2">
           <FaUser />
-          <h2>{player.player_name}</h2>
+          <span>{player.player_name}</span>
         </h2>
         <div className="flex justify-between items-center">
           <div className="flex justify-between items-center space-x-3 ">
@@ -33,8 +40,19 @@ const PlayersCards = ({ player }) => {
             <p>{player.specialty}</p>
           </div>
           <div className="flex justify-between items-center">
-            <h3>Price: {player.price}</h3>
-            <button className="btn">Choose Player</button>
+            <h3>Price: {Number(player.price)}</h3>
+
+            <button
+              disabled={isSelected}
+              onClick={() => {
+                setIsSelected(true);
+                setCoin(coin + player.price);
+                toast(`${player.player_name} added successfully`)
+              }}
+              className="btn"
+            >
+              {isSelected === true ? "Selected" : "Choose Player"}
+            </button>
           </div>
         </div>
       </div>
