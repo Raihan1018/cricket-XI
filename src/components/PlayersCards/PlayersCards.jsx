@@ -5,10 +5,7 @@ const PlayersCards = ({ player }) => {
   return (
     <div className="card bg-base-100  shadow-xl p-5 border hover:-translate-y-3 duration-200 ease-in-out transition-all">
       <figure>
-        <img
-          src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-          alt="Shoes"
-        />
+        <img className="h-96 w-96" src={player.image_url} alt={player.player_name} />
       </figure>
       <div>
         <h2 className="card-title py-2">

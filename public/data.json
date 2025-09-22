@@ -8,7 +8,7 @@
     "rating": 9.2,
     "price": 2500000,
     "type": "Batsman",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Virat_Kohli.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/500px-Virat_Kohli_in_PMO_New_Delhi.jpg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "rating": 8.9,
     "price": 2000000,
     "type": "All-rounder",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shakib_Al_Hasan_2018.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/500px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "rating": 9.0,
     "price": 2200000,
     "type": "Bowler",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jasprit_Bumrah.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg/500px-Jasprit_Bumrah_in_PMO_New_Delhi.jpg"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "rating": 8.8,
     "price": 2100000,
     "type": "Batsman",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Steve_Smith_2018.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/STEVE_SMITH_%2811705303043%29.jpg/500px-STEVE_SMITH_%2811705303043%29.jpg"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "rating": 8.7,
     "price": 1900000,
     "type": "Bowler",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kagiso_Rabada.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rabada.jpg/500px-Rabada.jpg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "rating": 9.1,
     "price": 2300000,
     "type": "All-rounder",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ben_Stokes_2019.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BEN_STOKES_%2811704837023%29_%28cropped%29.jpg/500px-BEN_STOKES_%2811704837023%29_%28cropped%29.jpg"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "rating": 8.6,
     "price": 1800000,
     "type": "Bowler",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rashid_Khan_2021.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/500px-Rashid_Khan.jpg"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "rating": 8.9,
     "price": 2000000,
     "type": "Batsman",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/David_Warner_2019.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAVID_WARNER_%2811704782453%29.jpg/500px-DAVID_WARNER_%2811704782453%29.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "rating": 8.8,
     "price": 1950000,
     "type": "Bowler",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Trent_Boult_2018.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg/500px-2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "rating": 9.0,
     "price": 2400000,
     "type": "Batsman",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/AB_de_Villiers_2015.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AB_de_villiers_%28cropped%29.jpg/500px-AB_de_villiers_%28cropped%29.jpg"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "rating": 8.5,
     "price": 1700000,
     "type": "Batsman",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mushfiqur_Rahim_2019.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/500px-Mushfiqur_Rahim_2018_%28cropped%29.jpg"
   },
   {
     "id": 12,
@@ -129,6 +129,6 @@
     "rating": 8.9,
     "price": 2100000,
     "type": "Bowler",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mitchell_Starc_2018.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mitchell_Starc_2023.jpg/375px-Mitchell_Starc_2023.jpg"
   }
 ]
