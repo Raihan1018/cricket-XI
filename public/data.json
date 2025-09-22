@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "specialty": "Top-order Batsman",
+    "rating": 9.2,
+    "price": 2500000,
+    "type": "Batsman"
+  },
+  {
+    "id": 2,
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "specialty": "Pace Bowler",
+    "rating": 8.8,
+    "price": 1800000,
+    "type": "Bowler"
+  },
+  {
+    "id": 3,
+    "player_name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "specialty": "Test Batsman",
+    "rating": 9.1,
+    "price": 2300000,
+    "type": "Batsman"
+  },
+  {
+    "id": 4,
+    "player_name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "specialty": "Fast Bowler",
+    "rating": 8.5,
+    "price": 1600000,
+    "type": "Bowler"
+  },
+  {
+    "id": 5,
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "specialty": "Pace All-rounder",
+    "rating": 9.0,
+    "price": 2100000,
+    "type": "All-rounder"
+  },
+  {
+    "id": 6,
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "specialty": "Spin Bowler",
+    "rating": 8.9,
+    "price": 1900000,
+    "type": "Bowler"
+  },
+  {
+    "id": 7,
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "specialty": "Middle-order Batsman",
+    "rating": 8.7,
+    "price": 2000000,
+    "type": "Batsman"
+  },
+  {
+    "id": 8,
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "specialty": "Swing Bowler",
+    "rating": 8.6,
+    "price": 1750000,
+    "type": "Bowler"
+  },
+  {
+    "id": 9,
+    "player_name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "specialty": "Opening Batsman",
+    "rating": 9.3,
+    "price": 2600000,
+    "type": "Batsman"
+  },
+  {
+    "id": 10,
+    "player_name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "specialty": "Left-arm Fast Bowler",
+    "rating": 8.7,
+    "price": 1850000,
+    "type": "Bowler"
+  },
+  {
+    "id": 11,
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "specialty": "Spin All-rounder",
+    "rating": 8.9,
+    "price": 2000000,
+    "type": "All-rounder"
+  },
+  {
+    "id": 12,
+    "player_name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-rounder",
+    "specialty": "Batting All-rounder",
+    "rating": 8.5,
+    "price": 1900000,
+    "type": "All-rounder"
+  }
+]
